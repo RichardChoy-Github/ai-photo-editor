@@ -10,6 +10,9 @@ export default function Index() {
    */
   return (
     <div className={styles.page}>
+      <div className="bg-blue-500 text-white p-8">
+        Tailwind Works
+      </div>
       <div className="wrapper">
         <div className="container">
           <div id="welcome">
